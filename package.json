@@ -1,8 +1,8 @@
 {
   "name": "fintech-unify",
-  "version": "0.1.5",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "version": "0.1.6",
+  "main": "dist/components/index.js",
+  "module": "dist/components/index.js",
   "files": [
     "dist"
   ],
