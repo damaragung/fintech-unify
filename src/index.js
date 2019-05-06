@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Accordion } from "./lib/components";
+import { Accordion } from "fintech-unify/dist/components";
 
 ReactDOM.render(
   <div>
