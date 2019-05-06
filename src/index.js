@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Accordion } from "./lib";
+import { Accordion } from "./lib/components";
 
 ReactDOM.render(
   <div>
