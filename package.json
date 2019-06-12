@@ -14,7 +14,7 @@
     "prebuild": "rimraf dist",
     "build": "NODE_ENV=production babel src/lib --out-dir dist --copy-files",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -c .storybook -o docs"
   },
   "devDependencies": {
     "fintech-unify": "^0.1.6",

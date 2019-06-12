@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/main.5613063c8cad9bc7dfa7.bundle.js",
+    "main.js.map": "/main.5613063c8cad9bc7dfa7.bundle.js.map",
+    "runtime~main.js": "/runtime~main.5613063c8cad9bc7dfa7.bundle.js",
+    "runtime~main.js.map": "/runtime~main.5613063c8cad9bc7dfa7.bundle.js.map",
+    "vendors~main.js": "/vendors~main.5613063c8cad9bc7dfa7.bundle.js",
+    "vendors~main.js.map": "/vendors~main.5613063c8cad9bc7dfa7.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.69263b7a595cbb5554eae0417dfa9f3e.js": "/precache-manifest.69263b7a595cbb5554eae0417dfa9f3e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/camera.svg": "/static/media/camera.2c48572d.svg",
+    "static/media/edit.svg": "/static/media/edit.3287e9aa.svg",
+    "static/media/expand.svg": "/static/media/expand.1f4a503f.svg",
+    "static/media/icon-bw-digital.png": "/static/media/icon-bw-digital.73ec31ab.png",
+    "static/media/icon-bw-donation.png": "/static/media/icon-bw-donation.7b42a2a1.png",
+    "static/media/icon-bw-fintech.png": "/static/media/icon-bw-fintech.d58b9074.png",
+    "static/media/icon-bw-marketplace.png": "/static/media/icon-bw-marketplace.7db5eb35.png",
+    "static/media/icon-bw-os.png": "/static/media/icon-bw-os.88e3d2a1.png",
+    "static/media/icon-bw-tiket.png": "/static/media/icon-bw-tiket.475376d1.png",
+    "static/media/icon-clock.png": "/static/media/icon-clock.da8675ef.png",
+    "static/media/icon-close-gray.svg": "/static/media/icon-close-gray.f133a1d3.svg",
+    "static/media/icon-coupon.svg": "/static/media/icon-coupon.7fa857d9.svg",
+    "static/media/icon-logout.svg": "/static/media/icon-logout.6a4a84e0.svg",
+    "static/media/icon-money.png": "/static/media/icon-money.47a7c45e.png",
+    "static/media/logo-product-name.png": "/static/media/logo-product-name.94ee7a80.png"
+  }
+}
