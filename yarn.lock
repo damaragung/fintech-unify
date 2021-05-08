@@ -6663,17 +6663,18 @@ find-up@^2.0.0, find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-fintech-unify@^0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/fintech-unify/-/fintech-unify-0.1.6.tgz#51f9b8e953eaa0584009d465377b693a7bb3bca3"
-  integrity sha512-f78SsI/ztNDK9hi6WsEpl3EfR79JeWwPTluksIbo33EfFRXnm1HW7IEx3lrr8lg1nkBHU0IJffLWWhPE9vZ+DA==
+fintech-unify@^0.1.7:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/fintech-unify/-/fintech-unify-0.1.8.tgz#2628e9b2d65bf9f6482de40d91cc30f3e2183830"
+  integrity sha512-wHN86cwUjI5JUmr2OQLkyLnSlEzEUbtNvflLHXYGbmyme8yzyLbXHLeFSbuAHh+au3lLxcHfLO8P58bwIkcCLw==
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.4.4"
     classnames "^2.2.6"
     emotion "9.1.0"
     prop-types "^15.7.2"
     react-emotion "9.1.3"
-    unify-react-mobile "^3.2.0"
+    storybook "^1.0.0"
+    unify-react-mobile "3.4.1-dev-13"
 
 flat-cache@^2.0.1:
   version "2.0.1"
@@ -13692,9 +13693,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.19"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
-  integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-js@3.4.x:
   version "3.4.10"
@@ -13753,6 +13754,13 @@ unified@^7.1.0:
     trough "^1.0.0"
     vfile "^3.0.0"
     x-is-string "^0.1.0"
+
+unify-react-mobile@3.4.1-dev-13:
+  version "3.4.1-dev-13"
+  resolved "https://registry.yarnpkg.com/unify-react-mobile/-/unify-react-mobile-3.4.1-dev-13.tgz#974c2dd45d269cf99b9ad70849a968146bdf211f"
+  integrity sha512-OhWG11eP8FIwG/7TVKzkafVTajuAS3pceJxei/CGEkprG3cx38LVzOH+KoAO0c/WotgL/AM/xhts5jI/uMWoxg==
+  dependencies:
+    invariant "^2.2.4"
 
 unify-react-mobile@^3.2.0:
   version "3.2.0"
