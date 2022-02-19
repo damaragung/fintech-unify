@@ -6663,17 +6663,18 @@ find-up@^2.0.0, find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-fintech-unify@^0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/fintech-unify/-/fintech-unify-0.1.6.tgz#51f9b8e953eaa0584009d465377b693a7bb3bca3"
-  integrity sha512-f78SsI/ztNDK9hi6WsEpl3EfR79JeWwPTluksIbo33EfFRXnm1HW7IEx3lrr8lg1nkBHU0IJffLWWhPE9vZ+DA==
+fintech-unify@^0.1.7:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/fintech-unify/-/fintech-unify-0.1.8.tgz#2628e9b2d65bf9f6482de40d91cc30f3e2183830"
+  integrity sha512-wHN86cwUjI5JUmr2OQLkyLnSlEzEUbtNvflLHXYGbmyme8yzyLbXHLeFSbuAHh+au3lLxcHfLO8P58bwIkcCLw==
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.4.4"
     classnames "^2.2.6"
     emotion "9.1.0"
     prop-types "^15.7.2"
     react-emotion "9.1.3"
-    unify-react-mobile "^3.2.0"
+    storybook "^1.0.0"
+    unify-react-mobile "3.4.1-dev-13"
 
 flat-cache@^2.0.1:
   version "2.0.1"
@@ -11454,10 +11455,10 @@ querystring@0.2.0, querystring@^0.2.0:
   resolved "https://registry.yarnpkg.com/querystring/-/querystring-0.2.0.tgz#b209849203bb25df820da756e747005878521620"
   integrity sha1-sgmEkgO7Jd+CDadW50cAWHhSFiA=
 
-querystringify@^2.0.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.1.1.tgz#60e5a5fd64a7f8bfa4d2ab2ed6fdf4c85bad154e"
-  integrity sha512-w7fLxIRCRT7U8Qu53jQnJyPkYZIaR4n5151KMfcJlO/A9397Wxb1amJvROTK6TOnp7PfoAmg/qXiNHI+08jRfA==
+querystringify@^2.1.1:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.2.0.tgz#3345941b4153cb9d082d8eee4cda2016a9aef7f6"
+  integrity sha512-FIqgj2EUvTa7R50u0rGsyTftzjYmv/a3hO345bZNrqabNqjtgiDMgmo4mkUjd+nzU5oF3dClKqFIPUKybUyqoQ==
 
 raf@3.4.1:
   version "3.4.1"
@@ -13754,6 +13755,13 @@ unified@^7.1.0:
     vfile "^3.0.0"
     x-is-string "^0.1.0"
 
+unify-react-mobile@3.4.1-dev-13:
+  version "3.4.1-dev-13"
+  resolved "https://registry.yarnpkg.com/unify-react-mobile/-/unify-react-mobile-3.4.1-dev-13.tgz#974c2dd45d269cf99b9ad70849a968146bdf211f"
+  integrity sha512-OhWG11eP8FIwG/7TVKzkafVTajuAS3pceJxei/CGEkprG3cx38LVzOH+KoAO0c/WotgL/AM/xhts5jI/uMWoxg==
+  dependencies:
+    invariant "^2.2.4"
+
 unify-react-mobile@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/unify-react-mobile/-/unify-react-mobile-3.2.0.tgz#ec54d35b5148144ebc679deef0e7a2430edfcbef"
@@ -13897,11 +13905,11 @@ url-parse-lax@^1.0.0:
     prepend-http "^1.0.1"
 
 url-parse@^1.4.3:
-  version "1.4.6"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.6.tgz#baf91d6e6783c8a795eb476892ffef2737fc0456"
-  integrity sha512-/B8AD9iQ01seoXmXf9z/MjLZQIdOoYl/+gvsQF6+mpnxaTfG9P7srYaiqaDMyKkR36XMXfhqSHss5MyFAO8lew==
+  version "1.5.7"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.7.tgz#00780f60dbdae90181f51ed85fb24109422c932a"
+  integrity sha512-HxWkieX+STA38EDk7CE9MEryFeHCKzgagxlGvsdS7WBImq9Mk+PGwiT56w82WI3aicwJA8REp42Cxo98c8FZMA==
   dependencies:
-    querystringify "^2.0.0"
+    querystringify "^2.1.1"
     requires-port "^1.0.0"
 
 url@^0.11.0:
